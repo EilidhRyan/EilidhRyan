@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name's Eilidh and my pronouns are she/her. I recently graduated from the University of Glasgow with an MSci in Mathematics. I'm now on the Tech Connect graduate programme with JP Morgan, taught by Tech Elevator, in which I will learn all about software engineering before my job starts in September.
+
 <!--
 **EilidhRyan/EilidhRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
